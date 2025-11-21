@@ -1,5 +1,3 @@
----
-
 # Historical Memory in Material Systems
 
 **Author:** Dr. L. Vardien Askel
@@ -58,5 +56,3 @@ All experimental parameters, material specifications, and calibration procedures
 
 For technical questions, replication reports, or collaboration inquiries:
 **themaindeus@proton.me**
-
----
