@@ -4,7 +4,7 @@
 
 **Author:** Dr. L. Vardien Askel
 **Status:** Open Research Draft
-**Contact:** [themaindeus@proton.me](mailto:themaindeus@proton.me)
+**Contact:** [themaindeus@proton.me]
 
 ## Overview
 
@@ -57,6 +57,6 @@ All experimental parameters, material specifications, and calibration procedures
 ## Contact
 
 For technical questions, replication reports, or collaboration inquiries:
-**[themaindeus@proton.me](mailto:themaindeus@proton.me)**
+**themaindeus@proton.me**
 
 ---
