@@ -4,7 +4,7 @@
 
 **Author:** Dr. L. Vardien Askel
 **Status:** Open Research Draft
-**Contact:** [themaindeus@proton.me]
+**Contact:** themaindeus@proton.me
 
 ## Overview
 
